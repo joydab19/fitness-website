@@ -2181,4 +2181,252 @@
     .footer {
       gap: var(--gap-20xl);
     }
+  }@media screen and (max-width: 1050px) {
+    .get-body-in-container {
+      font-size: 3.875rem;
+      line-height: 4.688rem;
+    }
+    .workout-videos-description {
+      font-size: var(--font-size-13xl);
+      line-height: 2rem;
+    }
+    .change-your-habits {
+      font-size: var(--font-size-19xl);
+      line-height: 2.875rem;
+    }
+    .movement-time-practice {
+      justify-content: center;
+      grid-template-columns: repeat(2, minmax(173px, 300px));
+    }
+    .run-an-extra-container {
+      font-size: var(--font-size-19xl);
+      line-height: 2.875rem;
+    }
+    .change-habits-image,
+    .run-extra-mile-content {
+      flex: 1;
+    }
+    .run-extra-mile {
+      flex-wrap: wrap;
+    }
+    .bmi-calculator,
+    .trainings-and-exercises {
+      font-size: var(--font-size-19xl);
+      line-height: 2.875rem;
+    }
+    .b-m-i-calculator-title-parent,
+    .chart-container {
+      min-width: 100%;
+    }
+    .meet-our-team {
+      font-size: var(--font-size-19xl);
+      line-height: 2.875rem;
+    }
+    .team-member-grid {
+      justify-content: center;
+      grid-template-columns: repeat(2, minmax(245px, 425px));
+    }
+    .fitness1 {
+      font-size: 3.5rem;
+      line-height: 4.188rem;
+    }
+    .footer-top {
+      flex: 1;
+    }
+    .get-started,
+    .get-started5 {
+      font-size: var(--font-size-7xl);
+      line-height: 1.938rem;
+    }
+    .footer-content {
+      flex-wrap: wrap;
+    }
+  }
+  @media screen and (max-width: 750px) {
+    .home-service-contact {
+      display: none;
+    }
+    .sub-sub-header {
+      width: 37.188rem;
+    }
+    .join-download-buttons {
+      flex-wrap: wrap;
+    }
+    .body-shape-content {
+      gap: 2.188rem;
+    }
+    .sub-header {
+      gap: 3rem;
+      padding: 2.313rem var(--padding-51xl) var(--padding-30xl) 5.938rem;
+      box-sizing: border-box;
+    }
+    .movement-time-practice {
+      gap: var(--gap-xl);
+    }
+    .change-habits-title {
+      gap: var(--gap-10xl);
+    }
+    .run-extra-mile-content {
+      min-width: 100%;
+    }
+    .change-habits-content {
+      gap: var(--gap-6xl);
+    }
+    .trainings-exercises-content {
+      gap: var(--gap-10xl);
+    }
+    .b-m-i-calculator-input-fields,
+    .b-m-i-calculator-input-fields1 {
+      flex-wrap: wrap;
+    }
+    .b-m-i-calculator-title-parent {
+      gap: var(--gap-mid);
+    }
+    .chart-container-parent {
+      gap: var(--gap-3xl);
+      padding: var(--padding-13xl) 5.813rem var(--padding-15xl);
+      box-sizing: border-box;
+    }
+    .team-member-grid {
+      grid-template-columns: minmax(245px, 1fr);
+    }
+    .team-content {
+      gap: var(--gap-10xl);
+    }
+    .footer-top {
+      min-width: 100%;
+    }
+    .footer-content {
+      gap: var(--gap-6xl);
+    }
+    .copyright {
+      gap: var(--gap-mid);
+    }
+    .footer {
+      gap: var(--gap-xl);
+      padding-top: 2.688rem;
+      padding-bottom: var(--padding-4xl);
+      box-sizing: border-box;
+    }
+    .desktop-1 {
+      gap: var(--gap-25xl);
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .home-service-contact {
+      gap: 1.438rem;
+    }
+    .video-description {
+      font-size: var(--font-size-lgi);
+      line-height: 1.188rem;
+    }
+    .get-body-in-container {
+      font-size: 2.938rem;
+      line-height: 3.5rem;
+    }
+    .body-shape-content {
+      gap: 1.125rem;
+    }
+    .workout-videos-description {
+      font-size: var(--font-size-5xl);
+      line-height: 1.5rem;
+    }
+    .sub-header {
+      gap: 1.5rem;
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .change-your-habits {
+      font-size: var(--font-size-10xl);
+      line-height: 2.188rem;
+    }
+    .movement-time-practice {
+      grid-template-columns: minmax(173px, 1fr);
+    }
+    .run-an-extra-container {
+      font-size: var(--font-size-10xl);
+      line-height: 2.188rem;
+    }
+    .run-extra-mile-title-parent {
+      gap: var(--gap-mid);
+    }
+    .run-extra-mile {
+      padding-top: var(--padding-xl);
+      padding-bottom: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .bmi-calculator,
+    .trainings-and-exercises {
+      font-size: var(--font-size-10xl);
+      line-height: 2.188rem;
+    }
+    .bmi-calculator-chart {
+      font-size: var(--font-size-3xl);
+      line-height: 1.688rem;
+    }
+    .b-m-i-chart-title {
+      gap: 1.625rem;
+    }
+    .calculate-your-bmi {
+      font-size: var(--font-size-3xl);
+      line-height: 1.688rem;
+    }
+    .button5 {
+      flex: 1;
+    }
+    .chart-container-parent {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .meet-our-team {
+      font-size: var(--font-size-10xl);
+      line-height: 2.188rem;
+    }
+    .cameron-williamson,
+    .cody-fisher,
+    .darrell-steward,
+    .dianne-russell,
+    .jerome-bell,
+    .theresa-webb {
+      font-size: var(--body-text-size);
+      line-height: 1.188rem;
+    }
+    .fitness1 {
+      font-size: 2.625rem;
+      line-height: 3.125rem;
+    }
+    .get-started {
+      font-size: var(--font-size-lgi);
+      line-height: 1.438rem;
+    }
+    .get-started1,
+    .get-started2,
+    .get-started3,
+    .get-started4 {
+      font-size: var(--font-size-lg);
+      line-height: 1.375rem;
+    }
+    .get-started5 {
+      font-size: var(--font-size-lgi);
+      line-height: 1.438rem;
+    }
+    .get-started6,
+    .get-started7,
+    .get-started8,
+    .get-started9 {
+      font-size: var(--font-size-lg);
+      line-height: 1.375rem;
+    }
+    .footer-links {
+      flex-wrap: wrap;
+    }
+    .all-right-reserved {
+      font-size: var(--body-text-size);
+      line-height: 1.188rem;
+    }
+    .desktop-1 {
+      gap: var(--gap-3xl);
+    }
   }
