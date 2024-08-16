@@ -166,3 +166,85 @@
     align-items: flex-start;
     justify-content: flex-start;
   }
+  .get-body-in {
+    font-weight: 900;
+  }
+  .shape {
+    font-family: var(--font-miama);
+  }
+  .stay-healthy {
+    font-weight: 900;
+  }
+  .get-body-in-container {
+    margin: 0;
+    align-self: stretch;
+    position: relative;
+    font-size: inherit;
+    line-height: 120%;
+    font-family: inherit;
+  }
+  .a-huge-selection {
+    align-self: stretch;
+    position: relative;
+    font-size: var(--body-text-size);
+    letter-spacing: 0.5px;
+    line-height: 1.5rem;
+    color: var(--color-gray-300);
+  }
+  .join-club-now {
+    position: relative;
+    font-size: var(--font-size-lg);
+    line-height: 1.375rem;
+    font-weight: 600;
+    font-family: var(--p1-main-regular);
+    color: var(--color-white);
+    text-align: left;
+  }
+  .button {
+    cursor: pointer;
+    border: 0;
+    padding: var(--padding-base) 2.812rem;
+    background-color: var(--color-tomato-200);
+    border-radius: var(--br-23xl);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    white-space: nowrap;
+  }
+  .download-app {
+    position: relative;
+    font-size: var(--font-size-lg);
+    line-height: 1.375rem;
+    font-weight: 600;
+    font-family: var(--p1-main-regular);
+    color: var(--color-white);
+    text-align: left;
+    display: inline-block;
+    min-width: 8rem;
+  }
+  .button1,
+  .join-download-buttons {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .button1 {
+    cursor: pointer;
+    border: 1px solid var(--color-white);
+    padding: var(--padding-sm) 2.937rem;
+    background-color: transparent;
+    border-radius: var(--br-23xl);
+    justify-content: center;
+    white-space: nowrap;
+  }
+  .button1:hover {
+    background-color: rgba(230, 230, 230, 0.09);
+    border: 1px solid #e6e6e6;
+    box-sizing: border-box;
+  }
+  .join-download-buttons {
+    justify-content: flex-start;
+    gap: var(--gap-sm);
+    max-width: 100%;
+  }
