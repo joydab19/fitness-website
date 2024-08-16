@@ -879,3 +879,502 @@
     box-sizing: border-box;
     position: relative;
 }
+.image-9-icon {
+    height: 15.625rem;
+    width: 23.5rem;
+    position: absolute;
+    margin: 0 !important;
+    top: -1.531rem;
+    left: -0.937rem;
+    object-fit: cover;
+  }
+  .leg-press-works3 {
+    width: 11rem;
+    position: relative;
+    font-weight: 500;
+    display: inline-block;
+    flex-shrink: 0;
+    z-index: 1;
+  }
+  .image-9-parent {
+    width: 21.688rem;
+    background-color: var(--color-white);
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 8.906rem 2.375rem var(--padding-6xl);
+    box-sizing: border-box;
+    position: relative;
+    max-width: 100%;
+  }
+  .exercise-card-rows1 {
+    align-self: stretch;
+    flex-direction: row;
+    flex-wrap: wrap;
+    row-gap: 20px;
+  }
+  .exercise-card-rows1,
+  .exercise-cards,
+  .training-exercises {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .exercise-cards {
+    flex: 1;
+    background-color: var(--color-gray-100);
+    overflow: hidden;
+    flex-direction: column;
+  }
+  .training-exercises {
+    align-self: stretch;
+    flex-direction: row;
+    padding: 0 0 var(--padding-11xl);
+    box-sizing: border-box;
+    font-size: var(--font-size-sm);
+  }
+  .bmi-calculator {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    line-height: 3.625rem;
+    font-weight: 900;
+    font-family: inherit;
+    display: inline-block;
+    max-width: 100%;
+  }
+  .we-believe-fitness7 {
+    align-self: stretch;
+    position: relative;
+    font-size: var(--font-size-sm);
+    letter-spacing: 0.3px;
+    line-height: 1.5rem;
+    color: var(--color-gray-300);
+  }
+  .b-m-i-calculator-title {
+    width: 41.938rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-sm);
+    max-width: 100%;
+  }
+  .b-m-i-calculator-title-wrapper {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .b-m-i-calculator-title-wrapper,
+  .change-habits,
+  .trainings-exercises-content {
+    display: flex;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .trainings-exercises-content {
+    width: 66.25rem;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: var(--gap-39xl);
+  }
+  .change-habits {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+    box-sizing: border-box;
+    text-align: left;
+    font-size: var(--font-size-29xl);
+    color: var(--color-white);
+    font-family: var(--p1-main-regular);
+  }
+  .bmi-calculator-chart {
+    margin: 0;
+    align-self: stretch;
+    position: relative;
+    font-size: inherit;
+    line-height: 2.125rem;
+    font-weight: 900;
+    font-family: inherit;
+  }
+  .chart-background-icon,
+  .weight-status-labels {
+    align-self: stretch;
+    position: relative;
+    max-height: 100%;
+  }
+  .chart-background-icon {
+    width: 0.063rem;
+    min-height: 13.5rem;
+  }
+  .weight-status-labels {
+    max-width: 100%;
+    overflow: hidden;
+    object-fit: contain;
+    margin-top: -0.063rem;
+    z-index: 1;
+  }
+  .bmi,
+  .weight-status {
+    position: relative;
+    line-height: 120%;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 1.875rem;
+  }
+  .weight-status {
+    min-width: 6.75rem;
+  }
+  .b-m-i-weight-status-labels-child {
+    height: 13.5rem;
+    width: 0.063rem;
+    position: absolute;
+    margin: 0 !important;
+    right: 8.125rem;
+    bottom: -11.375rem;
+  }
+  .b-m-i-weight-status-labels,
+  .overweight-value {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .b-m-i-weight-status-labels {
+    flex: 1;
+    justify-content: space-between;
+    position: relative;
+    gap: var(--gap-xl);
+  }
+  .overweight-value {
+    align-self: stretch;
+    justify-content: flex-start;
+    padding: 0 var(--padding-xl) 0.312rem var(--padding-lg);
+    font-size: var(--body-text-size);
+    color: var(--color-white);
+  }
+  .frame-item {
+    flex: 1;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+    margin-top: -0.063rem;
+    z-index: 1;
+  }
+  .vector-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 var(--padding-9xs);
+  }
+  .below-185,
+  .underweight {
+    position: relative;
+    line-height: 1.063rem;
+    display: inline-block;
+    min-width: 4.438rem;
+  }
+  .underweight {
+    min-width: 5.375rem;
+  }
+  .underweight-value,
+  .underweight-value-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .underweight-value {
+    flex: 1;
+    justify-content: space-between;
+    gap: var(--gap-xl);
+  }
+  .underweight-value-wrapper {
+    width: 17.938rem;
+    justify-content: flex-start;
+    padding: 0 var(--padding-lg) var(--padding-9xs);
+    box-sizing: border-box;
+  }
+  .healthy-value-icon {
+    align-self: stretch;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+    margin-top: -0.063rem;
+    z-index: 1;
+  }
+  .healthy,
+  .obese-value {
+    position: relative;
+    line-height: 1.063rem;
+    display: inline-block;
+    min-width: 4.438rem;
+  }
+  .healthy {
+    min-width: 3.188rem;
+  }
+  .obese-label,
+  .obese-label-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .obese-label {
+    flex: 1;
+    justify-content: space-between;
+    gap: var(--gap-xl);
+  }
+  .obese-label-wrapper {
+    width: 15.75rem;
+    justify-content: flex-start;
+    padding: 0 var(--padding-lg);
+    box-sizing: border-box;
+  }
+  .chart-bottom-child {
+    align-self: stretch;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+    margin-top: -0.063rem;
+    z-index: 1;
+  }
+  .overweight,
+  .overweight-title {
+    position: relative;
+    line-height: 1.063rem;
+    display: inline-block;
+    min-width: 4.563rem;
+  }
+  .overweight {
+    min-width: 4.813rem;
+  }
+  .overweight-title-parent {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: var(--gap-xl);
+  }
+  .chart-bottom,
+  .chart-bottom-inner {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .chart-bottom-inner {
+    width: 17.375rem;
+    flex-direction: row;
+    padding: 0 var(--padding-lg);
+    box-sizing: border-box;
+  }
+  .chart-bottom {
+    align-self: stretch;
+    flex-direction: column;
+    gap: 0.625rem;
+  }
+  .overweight-divider-icon {
+    align-self: stretch;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+    margin-top: -0.063rem;
+    z-index: 1;
+  }
+  .overweight-label {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0.906rem;
+  }
+  .and-above,
+  .obese {
+    position: relative;
+    line-height: 1.063rem;
+    display: inline-block;
+    min-width: 7.188rem;
+  }
+  .obese {
+    min-width: 2.688rem;
+  }
+  .obese-title,
+  .underweight-label {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .obese-title {
+    flex: 1;
+    justify-content: space-between;
+    gap: var(--gap-xl);
+  }
+  .underweight-label {
+    width: 15.125rem;
+    justify-content: flex-start;
+    padding: 0 1.062rem;
+    box-sizing: border-box;
+  }
+  .b-m-i-chart-categories-content,
+  .overweight-value-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .overweight-value-parent {
+    align-self: stretch;
+    gap: 0.562rem;
+  }
+  .b-m-i-chart-categories-content {
+    flex: 1;
+    padding: var(--padding-mini) 0 0;
+  }
+  .b-m-i-scale-end {
+    height: 13.5rem;
+    width: 0.063rem;
+    position: relative;
+  }
+  .b-m-i-chart-categories-content-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .b-m-i-chart-bottom {
+    align-self: stretch;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+    margin-top: -0.063rem;
+    z-index: 1;
+  }
+  .b-m-i-chart-values,
+  .b-m-i-values {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .b-m-i-values {
+    align-self: stretch;
+  }
+  .b-m-i-chart-values {
+    flex: 1;
+    margin-left: -0.063rem;
+  }
+  .chart {
+    flex: 1;
+    flex-direction: row;
+  }
+  .b-m-i-chart-title,
+  .chart,
+  .chart-container,
+  .chart-wrapper {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .chart-wrapper {
+    width: 19.688rem;
+    flex-direction: row;
+    padding: 0 var(--padding-11xs);
+    box-sizing: border-box;
+    font-size: var(--font-size-sm);
+    color: var(--color-gray-300);
+  }
+  .b-m-i-chart-title,
+  .chart-container {
+    flex-direction: column;
+  }
+  .b-m-i-chart-title {
+    align-self: stretch;
+    gap: 3.25rem;
+  }
+  .chart-container {
+    width: 27.688rem;
+    padding: 0.187rem 0 0;
+    box-sizing: border-box;
+    min-width: 27.688rem;
+    max-width: 100%;
+  }
+  .calculate-your-bmi,
+  .we-believe-fitness8 {
+    position: relative;
+    font-family: var(--p1-main-regular);
+    text-align: left;
+  }
+  .calculate-your-bmi {
+    margin: 0;
+    width: 27.688rem;
+    font-size: var(--font-size-9xl);
+    line-height: 2.125rem;
+    font-weight: 900;
+    color: var(--color-white);
+    display: inline-block;
+    max-width: 100%;
+  }
+  .we-believe-fitness8 {
+    align-self: stretch;
+    font-size: var(--font-size-sm);
+    letter-spacing: 0.3px;
+    line-height: 1.5rem;
+    color: var(--color-gray-300);
+  }
+  .b-m-i-calculator-title1 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-sm);
+    max-width: 100%;
+  }
+  .b-m-i-calculator-input-fields,
+  .button3,
+  .button4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+  .button3,
+  .button4 {
+    width: 100%;
+    border: 0;
+    outline: 0;
+    background-color: var(--color-gray-400);
+    height: 3rem;
+    flex: 1;
+    border-radius: var(--br-5xs);
+    align-items: center;
+    padding: var(--padding-smi) var(--padding-xl);
+    box-sizing: border-box;
+    font-family: var(--p1-main-regular);
+    font-size: var(--body-text-size);
+    color: var(--color-gray-200);
+    min-width: 11.438rem;
+  }
+  .b-m-i-calculator-input-fields {
+    align-self: stretch;
+    align-items: flex-start;
+    gap: var(--gap-xs);
+  }
